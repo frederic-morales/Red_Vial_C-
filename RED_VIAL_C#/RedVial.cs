@@ -27,7 +27,7 @@
                 case "sur":
                     origen.Sur = nuevo;
                     nuevo.Norte = origen;
-                    break;
+                    break;  
                 case "este":
                     origen.Este = nuevo;
                     nuevo.Oeste = origen;
